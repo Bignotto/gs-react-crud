@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "name": "Big Smash",
+      "description": "Smash 100g com queijo cheddar, bacon e cebola.",
+      "price": "14.99",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "id": 4
+    },
+    {
+      "available": true,
+      "name": "hamburger",
+      "image": "https://portal.minervafoods.com/files/styles/blog_post_page/public/como_fazer_hamburguer_caseiro.jpg",
+      "price": "19.90",
+      "description": "TESTE",
+      "id": 5
     }
   ]
 }
