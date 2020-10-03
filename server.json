@@ -33,12 +33,12 @@
       "id": 4
     },
     {
-      "available": true,
-      "name": "hamburger",
       "image": "https://portal.minervafoods.com/files/styles/blog_post_page/public/como_fazer_hamburguer_caseiro.jpg",
+      "name": "hamburger",
       "price": "19.90",
-      "description": "TESTE",
-      "id": 5
+      "description": "que merda hein aaaaaaaaaaaaaa",
+      "id": 5,
+      "available": false
     }
   ]
 }
